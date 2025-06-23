@@ -1,4 +1,4 @@
-# 🔄 Backup Manager - Atualizações Automáticas
+# 🔄 Backup Manager - Atualizações Automáticas para Windows
 
 Este repositório é utilizado **exclusivamente** para armazenar as versões do aplicativo **Backup Manager**.  
 Ele é utilizado pelo sistema de **atualizações automáticas** do app baseado em Electron.
